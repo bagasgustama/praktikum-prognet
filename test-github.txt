@@ -1,2 +1,2 @@
 - test penggunaan git
-- test kedua lah untuk prubahan commit
+- menghapus test kedua dan buat test 3
