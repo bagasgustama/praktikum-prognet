@@ -1,1 +1,2 @@
-test penggunaan git
+- test penggunaan git
+- test kedua lah untuk prubahan commit
